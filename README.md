@@ -20,7 +20,9 @@ For dividends, also include:
 * Change in Dividend Accruals: Quantity, Gross Rate, Action ID, Currency, Symbol, ISIN, FIGI, Date, Fee, Code
 
 Follow this guide to configure your Flex Queries in your Interactive Brokers account:
-[https://portfellow.com/how-to-configure-ib-import](https://portfellow.com/how-to-configure-ib-import)
+[https://web.archive.org/web/20251206220120/https://portfellow.com/how-to-configure-ib-import/](https://web.archive.org/web/20251206220120/https://portfellow.com/how-to-configure-ib-import/)
+
+
 
 **Important: If you dont want ghostfolio-sync to sync everything everytime and make it quicker, just set a shorter window for the query. Keep in mind that what was not synced by ghostfolio-sync in that period of time will be lost (ie when the window moves and content was not uploaded to ghostfolio). This can be avoided at the cost of a longer window of time and longer sync**
 
